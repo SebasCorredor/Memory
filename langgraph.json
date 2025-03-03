@@ -1,0 +1,9 @@
+{
+    "dependencies": ["."],
+    "graphs":{
+        "bushido3":"./agent.py:graph",
+        "bushido4":"./agent_with_tools.py:graph",
+        "bushido5":"./agents_with_memory.py:graph"
+    },
+    "python_version": "3.11"
+}
